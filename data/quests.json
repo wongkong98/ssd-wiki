@@ -1,0 +1,104 @@
+{
+    "age_of_dawn": {
+        "id": "age_of_dawn",
+        "chapter": "Age of Dawn",
+        "quests": {
+            "croaking_fiends_in_the_forest": {
+                "id": "croaking_fiends_in_the_forest",
+                "name": "Croaking Fiends in the Forest",
+                "level": "",
+                "grunts": ["goblin"],
+                "archfiends": [],
+                "land": ""
+            },
+            "cavorting_cats_and_crows": {
+                "id": "cavorting_cats_and_crows",
+                "name": "Cavorting Cats and Crows",
+                "level": "",
+                "grunts": ["goblin"],
+                "archfiends": [],
+                "land": ""
+            },
+            "wasteland_wastrels": {
+                "id": "wasteland_wastrels",
+                "name": "Wasteland Wastrels",
+                "level": "",
+                "grunts": ["goblin"],
+                "archfiends": [],
+                "land": ""
+            },
+            "fatty_abbey_fryup": {
+                "id": "fatty_abbey_fryup",
+                "name": "Fatty Abbey Fry-Up",
+                "level": "",
+                "grunts": ["goblin"],
+                "archfiends": [],
+                "land": ""
+            },
+            "city_crow_corps": {
+                "id": "city_crow_corps",
+                "name": "City Crow Corps",
+                "level": "",
+                "grunts": ["goblin"],
+                "archfiends": [],
+                "land": ""
+            },
+            "rocky_desert_rollers": {
+                "id": "rocky_desert_rollers",
+                "name": "Rocky Desert Rollers",
+                "level": "",
+                "grunts": ["goblin"],
+                "archfiends": [],
+                "land": ""
+            },
+            "lairy_lushes_of_the_wasteland": {
+                "id": "lairy_lushes_of_the_wasteland",
+                "name": "Lairy Lushes of the Wasteland",
+                "level": "",
+                "grunts": ["goblin"],
+                "archfiends": [],
+                "land": ""
+            },
+            "furious_freezing_fiends": {
+                "id": "furious_freezing_fiends",
+                "name": "Furious Freezing Fiends",
+                "level": "",
+                "grunts": ["goblin"],
+                "archfiends": [],
+                "land": ""
+            },
+            "devilish_city_destruction": {
+                "id": "devilish_city_destruction",
+                "name": "Devilish City Destruction",
+                "level": "",
+                "grunts": ["goblin"],
+                "archfiends": [],
+                "land": ""
+            },
+            "combing_the_sandy_sea": {
+                "id": "combing_the_sandy_sea",
+                "name": "Combing the Sandy Sea",
+                "level": "",
+                "grunts": ["goblin"],
+                "archfiends": [],
+                "land": ""
+            },
+            "starvation_highway": {
+                "id": "starvation_highway",
+                "name": "Starvation Highway",
+                "level": "",
+                "grunts": ["goblin"],
+                "archfiends": [],
+                "land": ""
+            },
+            "something_slimy_upon_the_sands": {
+                "id": "something_slimy_upon_the_sands",
+                "name": "Something Slimy Upon the Sands",
+                "level": "",
+                "grunts": ["goblin"],
+                "archfiends": [],
+                "land": ""
+            }
+        }
+    }
+}

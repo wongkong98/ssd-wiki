@@ -1,0 +1,602 @@
+{
+    "abyssal_fiend": {
+        "id": "abyssal_fiend",
+        "name": "Abyssal Fiend",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "alice": {
+        "id": "alice",
+        "name": "Alice",
+        "element": ["volt", "heat", "venom"],
+        "ailment": ["poison"],
+        "weakness": ["none"],
+        "type": "archfiend",
+        "breakablePart": ["Hat", "Hips", "Right Arm"],
+        "breakReward": ["tutors_tea_set", "tutors_hat"]
+    },
+    "bahamut": {
+        "id": "bahamut",
+        "name": "Bahamut",
+        "element": ["none"],
+        "ailment": ["none"],
+        "weakness": ["venom"],
+        "type": "archfiend",
+        "breakablePart": ["Head", "Chest", "Both Wings"],
+        "breakReward": ["everyoung_horn", "everyoung_hardwing"]
+    },
+    "basilisk": {
+        "id": "basilisk",
+        "name": "Basilisk",
+        "element": ["venom"],
+        "ailment": ["poison"],
+        "weakness": ["heat"],
+        "type": "archfiend",
+        "breakablePart": ["Head", "Both Wings", "Chest"],
+        "breakReward": ["winged_eyes_orb", "winged_eye_tear"]
+    },
+    "behemoth": {
+        "id": "behemoth",
+        "name": "Behemoth",
+        "element": ["venom"],
+        "ailment": ["poison"],
+        "weakness": ["heat"],
+        "type": "archfiend",
+        "breakablePart": ["All 3 branches"],
+        "breakReward": ["ravenous_whirleaf", "starvelings_fruit"]
+    },
+    "beelzebub": {
+        "id": "beelzebub",
+        "name": "Abyssal Fiend",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "cat_sith": {
+        "id": "cat_sith",
+        "name": "Cat Sith",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "centaur": {
+        "id": "centaur",
+        "name": "Centaur",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "cerberus": {
+        "id": "cerberus",
+        "name": "Cerberus",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "druid_god_soul": {
+        "id": "druid_god_soul",
+        "name": "Druid God Soul",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "chimera": {
+        "id": "chimera",
+        "name": "Chimera",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "chthonian_fiend": {
+        "id": "chthonian_fiend",
+        "name": "Chthonian Fiend",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "cinderella": {
+        "id": "cinderella",
+        "name": "Cinderella",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "cyclops": {
+        "id": "cyclops",
+        "name": "Cyclops",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "dionaea": {
+        "id": "dionaea",
+        "name": "Dionaea",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "dragon": {
+        "id": "dragon",
+        "name": "Dragon",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "dullahan": {
+        "id": "dullahan",
+        "name": "Dullahan",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "dwarves": {
+        "id": "dwarves",
+        "name": "Dwarves",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "elven_queen": {
+        "id": "elven_queen",
+        "name": "Elven Queen",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "frog_prince": {
+        "id": "frog_prince",
+        "name": "Frog Prince",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "gargoyle": {
+        "id": "gargoyle",
+        "name": "Gargoyle",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "gigas": {
+        "id": "gigas",
+        "name": "Gigas",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "god_dragon": {
+        "id": "god_dragon",
+        "name": "God Dragon",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "griffin": {
+        "id": "griffin",
+        "name": "Griffin",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "hansel_and_gretel": {
+        "id": "hansel_and_gretel",
+        "name": "Hansel and Gretel",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "harpy": {
+        "id": "harpy",
+        "name": "Harpy",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "hydra": {
+        "id": "hydra",
+        "name": "Hydra",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "illecebra": {
+        "id": "illecebra",
+        "name": "Illecebra",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "incubus": {
+        "id": "incubus",
+        "name": "Incubus",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "iron_virgin": {
+        "id": "iron_virgin",
+        "name": "Iron Virgin",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "jack_o_lantern": {
+        "id": "jack_o_lantern",
+        "name": "Jack-o-Lantern",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "kraken": {
+        "id": "kraken",
+        "name": "Kraken",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "leprechauns": {
+        "id": "leprechauns",
+        "name": "Leprechauns",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "leviathan": {
+        "id": "leviathan",
+        "name": "Leviathan",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "lizardman": {
+        "id": "lizardman",
+        "name": "Lizardman",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "marduk": {
+        "id": "marduk",
+        "name": "Marduk",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "minotaur": {
+        "id": "minotaur",
+        "name": "Minotaur",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "musicians_of_bremen": {
+        "id": "musicians_of_bremen",
+        "name": "Musicians of Bremen",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "naked_emperor": {
+        "id": "naked_emperor",
+        "name": "Naked Emperor",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "odin": {
+        "id": "odin",
+        "name": "Odin",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "ogre": {
+        "id": "ogre",
+        "name": "Ogre",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "ouroboros": {
+        "id": "ouroboros",
+        "name": "Ouroboros",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "pegasus": {
+        "id": "pegasus",
+        "name": "Pegasus",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "phoenix": {
+        "id": "phoenix",
+        "name": "Phoenix",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "pied_piper_of_hamelin": {
+        "id": "pied_piper_of_hamelin",
+        "name": "Pied Pieper of Hamelin",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "red_riding_hood": {
+        "id": "red_riding_hood",
+        "name": "Red Riding Hood",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "romalus_god_soul": {
+        "id": "romalus_god_soul",
+        "name": "Romalus God Soul",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "siren": {
+        "id": "siren",
+        "name": "Siren",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "slime": {
+        "id": "slime",
+        "name": "Slime",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "show_white": {
+        "id": "show_white",
+        "name": "Snow White",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "succubus": {
+        "id": "succubus",
+        "name": "Succubus",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "terrwyn": {
+        "id": "terrwyn",
+        "name": "Terrwyn",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "three_little_pigs": {
+        "id": "three_little_pigs",
+        "name": "Three Little Pigs",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "tortoise_and_the_hare": {
+        "id": "tortoise_and_the_hare",
+        "name": "Tortoise and the Hare",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "troll": {
+        "id": "troll",
+        "name": "Troll",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "unicorn": {
+        "id": "unicorn",
+        "name": "Unicorn",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "valkyrie": {
+        "id": "valkyrie",
+        "name": "Valkyrie",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "werewolf": {
+        "id": "werewolf",
+        "name": "Werewolf",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "wraith": {
+        "id": "wraith",
+        "name": "Wraith",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    },
+    "wyvern": {
+        "id": "wyvern",
+        "name": "Wyvern",
+        "element": ["volt"],
+        "ailment": ["shock"],
+        "weakness": ["stone"],
+        "type": "archfiend",
+        "breakablePart": ["Tail", "Head", "Arms"],
+        "breakReward": ["abyssal_arm", "abyssal_bead"]
+    }
+}

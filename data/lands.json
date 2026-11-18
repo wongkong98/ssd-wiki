@@ -1,0 +1,114 @@
+{
+    "valhalla_abbey": {
+        "id": "valhalla_abbey",
+        "name": "Valhalla Abbey",
+        "realm": "north",
+        "region1": "Santuary",
+        "region2": "Cloisters"
+    },
+    "icarus_pasture": {
+        "id": "icarus_pasture",
+        "name": "Icarus Pasture",
+        "realm": "north",
+        "region1": "Icarus Pasture",
+        "region2": "Hillocks"
+    },
+    "mt_helios": {
+        "id": "mt_helios",
+        "name": "Mt. Helios",
+        "realm": "north",
+        "region1": "East",
+        "region2": "West"
+    },
+    "leviathan_land": {
+        "id": "leviathan_land",
+        "name": "Leviathan (land)",
+        "realm": "north",
+        "region1": "Leviathan (land) 1st Floor",
+        "region2": "Leviathan (land) 2nd Floor"
+    },
+    "babylon": {
+        "id": "babylon",
+        "name": "Babylon",
+        "realm": "west",
+        "region1": "Babylon East",
+        "region2": "Babylon West"
+    },
+    "noahs_desert": {
+        "id": "noahs_desert",
+        "name": "Noah's Desert",
+        "realm": "west",
+        "region1": "East",
+        "region2": "West"
+    },
+    "lake_andromeda": {
+        "id": "lake_andromeda",
+        "name": "Lake Andromeda",
+        "realm": "west",
+        "region1": "East",
+        "region2": "West"
+    },
+    "aquarius": {
+        "id": "aquarius",
+        "name": "Aquarius",
+        "realm": "west",
+        "region1": "East",
+        "region2": "West"
+    },
+    "ruins_of_tartarus": {
+        "id": "ruins_of_tartarus",
+        "name": "Ruins of Tartarus",
+        "realm": "east",
+        "region1": "Eastern Ruins of Tartarus",
+        "region2": "Ruins of Tartarus in the western part"
+    },
+    "plains_of_olympia": {
+        "id": "plains_of_olympia",
+        "name": "Plains of Olympia",
+        "realm": "east",
+        "region1": "Roads of the Plains of Olympia",
+        "region2": "Hills of the Plains of Olympia"
+    },
+    "catacombs_of_pandora": {
+        "id": "catacombs_of_pandora",
+        "name": "Catacombs of Pandora",
+        "realm": "east",
+        "region1": "Catacombs of Pandora",
+        "region2": "Deepest part of the Catacombs of Pandora"
+    },
+    "caverns_of_goliath": {
+        "id": "caverns_of_goliath",
+        "name": "Caverns of Goliath",
+        "realm": "east",
+        "region1": "Caverns of Goliath",
+        "region2": "Deepest part of the Caverns of Goliath"
+    },
+    "necropolis": {
+        "id": "necropolis",
+        "name": "Necropolis",
+        "realm": "south",
+        "region1": "East",
+        "region2": "West"
+    },
+    "elvenvale": {
+        "id": "elvenvale",
+        "name": "Elvenvale",
+        "realm": "south",
+        "region1": "Elvenvale",
+        "region2": "Elvenvale Upper Layer"
+    },
+    "poseidon_inn": {
+        "id": "poseidon_inn",
+        "name": "Poseidon Inn",
+        "realm": "south",
+        "region1": "East",
+        "region2": "West"
+    },
+    "luna_wastes": {
+        "id": "luna_wastes",
+        "name": "Luna Wastes",
+        "realm": "south",
+        "region1": "Luna Wastes",
+        "region2": "Luna Wastes Upper Layer"
+    }
+}

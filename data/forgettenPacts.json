@@ -1,0 +1,76 @@
+{
+    "forgotten_pacts": {
+        "id": "forgotten_pacts",
+        "name": "Forgotten Pacts",
+        "pacts": {
+            "hour_of_verdure": {
+                "id": "hour_of_verdure",
+                "chapter": "Hour of Verdure",
+                "quests": {
+
+                }
+            },
+            "hour_of_desert_sand": {
+                "id": "hour_of_desert_sand",
+                "chapter": "Hour of Desert Sand",
+                "quests": {
+
+                }
+            },
+            "hour_of_roseblossom": {
+                "id": "hour_of_roseblossom",
+                "chapter": "Hour of Roseblossom",
+                "quests": {
+                    
+                }
+            }
+        }
+    },
+    "forgotten_pacts_black": {
+        "id": "forgotten_pacts_black",
+        "name": "Forgotten Pacts (Black)",
+        "pacts": {
+            "hour_of_verdure": {
+                "id": "hour_of_verdure",
+                "chapter": "Hour of Verdure",
+                "quests": {
+
+                }
+            },
+            "hour_of_scarlet": {
+                "id": "hour_of_scarlet",
+                "chapter": "Hour of Scarlet",
+                "quests": {
+
+                }
+            }
+        }
+    },
+    "additional_pacts": {
+        "id": "additional_pacts",
+        "name": "Additional Pacts",
+        "pacts": {
+            "additional_pact_i": {
+                "id": "additional_pact_i",
+                "chapter": "Additional Pact I",
+                "quests": {
+
+                }
+            },
+            "additional_pact_ii": {
+                "id": "additional_pact_ii",
+                "chapter": "Additional Pact II",
+                "quests": {
+
+                }
+            },
+            "additional_pact_iii": {
+                "id": "additional_pact_iii",
+                "chapter": "Additional Pact III",
+                "quests": {
+
+                }
+            }
+        }
+    }
+}

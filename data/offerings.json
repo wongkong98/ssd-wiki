@@ -1,0 +1,372 @@
+{
+    "sanguine_salvo": {
+        "id": "sanguine_salvo",
+        "name": "Sanguine Salvo",
+        "category": "attack",
+        "mainType": "blood",
+        "subType": 1,
+        "element": "none",
+        "forceRatio": 100,
+        "range": "short",
+        "sizes": {
+            "s": {
+                "power": 10,
+                "casts": null,
+                "duration": null,
+                "acquisition": "",
+                "fusable": false
+            },
+            "plus": {
+                "power": 25,
+                "casts": null,
+                "duration": null,
+                "acquisition": "",
+                "fusable": false
+            }
+        }
+    },
+    "sanguine_cannon": {
+        "id": "sanguine_cannon",
+        "name": "Sanguine Cannon",
+        "category": "attack",
+        "mainType": "blood",
+        "subType": 1,
+        "element": "none",
+        "forceRatio": 100,
+        "range": "short",
+        "sizes": {
+            "s": {
+                "power": 20,
+                "casts": null,
+                "duration": null,
+                "acquisition": "",
+                "fusable": false
+            },
+            "plus": {
+                "power": 40,
+                "casts": null,
+                "duration": null,
+                "acquisition": "",
+                "fusable": true
+            }
+        }
+    },
+    "sanguine_demonshot": {
+        "id": "sanguine_demonshot",
+        "name": "Sanguine Demonshot",
+        "category": "attack",
+        "mainType": "blood",
+        "subType": 1,
+        "element": "none",
+        "forceRatio": 100,
+        "range": "short",
+        "sizes": {
+            "m": {
+                "power": 80,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Sacrifice Magusar (transformed)",
+                "fusable": false
+            },
+            "plus": {
+                "power": 160,
+                "casts": null,
+                "duration": null,
+                "acquisition": "",
+                "fusable": true
+            }
+        }
+    },
+    "sanguine_angelshot": {
+        "id": "sanguine_angelshot",
+        "name": "Sanguine Angelshot",
+        "category": "attack",
+        "mainType": "blood",
+        "subType": 1,
+        "element": "none",
+        "forceRatio": 100,
+        "range": "short",
+        "sizes": {
+            "m": {
+                "power": 15,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Save Magusar (transformed)",
+                "fusable": false
+            },
+            "plus": {
+                "power": 30,
+                "casts": null,
+                "duration": null,
+                "acquisition": "",
+                "fusable": true
+            }
+        }
+    },
+    "sanguine_razorshot": {
+        "id": "sanguine_razorshot",
+        "name": "Sanguine Razorshot",
+        "category": "attack",
+        "mainType": "blood",
+        "subType": 2,
+        "element": "none",
+        "forceRatio": 100,
+        "range": "short",
+        "sizes": {
+            "l": {
+                "power": 30,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Save Magusar (transformed)",
+                "fusable": false
+            },
+            "plus": {
+                "power": 60,
+                "casts": null,
+                "duration": null,
+                "acquisition": "",
+                "fusable": true
+            }
+        }
+    },
+    "assassins_aid": {
+        "id": "assassins_aid",
+        "name": "Assassin's Aid",
+        "category": "attack",
+        "mainType": "blood",
+        "subType": 2,
+        "element": "none",
+        "forceRatio": 100,
+        "range": "short",
+        "sizes": {
+            "s": {
+                "power": 20,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Wyvern curse breaker reward",
+                "fusable": false
+            },
+            "m": {
+                "power": 25,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Wyvern curse breaker reward",
+                "fusable": false
+            },
+            "l": {
+                "power": 30,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Wyvern curse breaker reward",
+                "fusable": false
+            },
+            "plus": {
+                "power": 60,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Fusion",
+                "fusable": true
+            }
+        }
+    },
+    "princelings_claw": {
+        "id": "princelings_claw",
+        "name": "Princeling's Claw",
+        "category": "attack",
+        "mainType": "blood",
+        "subType": 2,
+        "element": "none",
+        "forceRatio": 100,
+        "range": "short",
+        "sizes": {
+            "s": {
+                "power": 50,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Cat Sith curse breaker reward",
+                "fusable": false
+            },
+            "m": {
+                "power": 60,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Cat Sith curse breaker reward",
+                "fusable": false
+            },
+            "l": {
+                "power": 70,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Cat Sith curse breaker reward",
+                "fusable": false
+            },
+            "plus": {
+                "power": 140,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Fusion",
+                "fusable": true
+            }
+        }
+    },
+    "debauched_veins": {
+        "id": "debauched_veins",
+        "name": "Debauched Veins",
+        "category": "attack",
+        "mainType": "blood",
+        "subType": 2,
+        "element": "volt",
+        "forceRatio": 80,
+        "range": "short",
+        "sizes": {
+            "s": {
+                "power": 35,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Naked Emperor curse breaker reward",
+                "fusable": false
+            },
+            "m": {
+                "power": 40,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Naked Emperor curse breaker reward",
+                "fusable": false
+            },
+            "l": {
+                "power": 45,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Naked Emperor curse breaker reward",
+                "fusable": false
+            },
+            "plus": {
+                "power": 90,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Fusion",
+                "fusable": true
+            }
+        }
+    },
+    "chthonian_claws": {
+        "id": "chthonian_claws",
+        "name": "Chthonian Claws",
+        "category": "attack",
+        "mainType": "blood",
+        "subType": 2,
+        "element": "heat",
+        "forceRatio": 90,
+        "range": "short",
+        "sizes": {
+            "s": {
+                "power": 110,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Chthonian Fiend curse breaker reward",
+                "fusable": false
+            },
+            "m": {
+                "power": 135,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Chthonian Fiend curse breaker reward",
+                "fusable": false
+            },
+            "l": {
+                "power": 160,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Chthonian Fiend curse breaker reward",
+                "fusable": false
+            },
+            "plus": {
+                "power": 336,
+                "casts": null,
+                "duration": null,
+                "acquisition": "Fusion",
+                "fusable": true
+            }
+        }
+    },
+    "abyssal_arm": {
+        "id": "abyssal_arm",
+        "name": "Abyssal Arm",
+        "category": "attack",
+        "mainType": "arm",
+        "subType": null,
+        "element": "volt",
+        "forceRatio": 85,
+        "range": "short",
+        "sizes": {
+            "s": {
+                "power": 85,
+                "casts": 2,
+                "duration": 60,
+                "acquisition": "",
+                "fusable": false
+            },
+            "m": {
+                "power": 115,
+                "casts": 3,
+                "duration": 65,
+                "acquisition": "",
+                "fusable": false
+            },
+            "l": {
+                "power": 230,
+                "casts": 4,
+                "duration": 70,
+                "acquisition": "",
+                "fusable": false
+            },
+            "plus": {
+                "power": 390,
+                "casts": 2,
+                "duration": 110,
+                "acquisition": "",
+                "fusable": true
+            }
+        }
+    },
+    "abyssal_bead": {
+        "id": "abyssal_bead",
+        "name": "Abyssal Bead",
+        "category": "attack",
+        "mainType": "summon",
+        "subType": null,
+        "element": "volt",
+        "forceRatio": 80,
+        "range": "short",
+        "sizes": {
+            "s": {
+                "power": 295,
+                "casts": 1,
+                "duration": 65,
+                "acquisition": "",
+                "fusable": false
+            },
+            "m": {
+                "power": 345,
+                "casts": 3,
+                "duration": 70,
+                "acquisition": "",
+                "fusable": false
+            },
+            "l": {
+                "power": 388,
+                "casts": 5,
+                "duration": 75,
+                "acquisition": "",
+                "fusable": false
+            },
+            "plus": {
+                "power": 774,
+                "casts": 3,
+                "duration": 150,
+                "acquisition": "fusion",
+                "fusable": true
+            }
+        }
+    }
+}
