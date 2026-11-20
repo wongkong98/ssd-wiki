@@ -6,98 +6,346 @@
             "croaking_fiends_in_the_forest": {
                 "id": "croaking_fiends_in_the_forest",
                 "name": "Croaking Fiends in the Forest",
-                "level": "",
-                "grunts": ["goblin"],
+                "difficulty": 1,
+                "target": "goblin",
+                "grunts": [
+                    "goblin",
+                    "poison_ivy_orc"
+                ],
                 "archfiends": [],
-                "land": ""
+                "region": "",
+                "rewards": [
+                    {
+                        "offering": "mole_claw",
+                        "size": "s"
+                    },
+                    {
+                        "offering": "wooden_pot_lid",
+                        "size": "s"
+                    },
+                    {
+                        "offering": "healing_bloom",
+                        "size": "s"
+                    }
+                ]
             },
             "cavorting_cats_and_crows": {
                 "id": "cavorting_cats_and_crows",
                 "name": "Cavorting Cats and Crows",
-                "level": "",
-                "grunts": ["goblin"],
+                "difficulty": 1,
+                "target": "poison_ivy_orc",
+                "grunts": [
+                    "poison_ivy_orc",
+                    "kobold",
+                    "ghoul"
+                ],
                 "archfiends": [],
-                "land": ""
+                "region": "elven_valley",
+                "rewards": []
             },
-            "wasteland_wastrels": {
-                "id": "wasteland_wastrels",
-                "name": "Wasteland Wastrels",
-                "level": "",
-                "grunts": ["goblin"],
+            "wasteregion_wastrels": {
+                "id": "wasteregion_wastrels",
+                "name": "Wasteregion Wastrels",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
                 "archfiends": [],
-                "land": ""
+                "region": "",
+                "rewards": []
             },
             "fatty_abbey_fryup": {
                 "id": "fatty_abbey_fryup",
                 "name": "Fatty Abbey Fry-Up",
-                "level": "",
-                "grunts": ["goblin"],
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
                 "archfiends": [],
-                "land": ""
+                "region": "",
+                "rewards": []
             },
             "city_crow_corps": {
                 "id": "city_crow_corps",
                 "name": "City Crow Corps",
-                "level": "",
-                "grunts": ["goblin"],
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
                 "archfiends": [],
-                "land": ""
+                "region": "",
+                "rewards": []
             },
             "rocky_desert_rollers": {
                 "id": "rocky_desert_rollers",
                 "name": "Rocky Desert Rollers",
-                "level": "",
-                "grunts": ["goblin"],
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
                 "archfiends": [],
-                "land": ""
+                "region": "",
+                "rewards": []
             },
-            "lairy_lushes_of_the_wasteland": {
-                "id": "lairy_lushes_of_the_wasteland",
-                "name": "Lairy Lushes of the Wasteland",
-                "level": "",
-                "grunts": ["goblin"],
+            "lairy_lushes_of_the_wasteregion": {
+                "id": "lairy_lushes_of_the_wasteregion",
+                "name": "Lairy Lushes of the Wasteregion",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
                 "archfiends": [],
-                "land": ""
+                "region": "",
+                "rewards": []
             },
             "furious_freezing_fiends": {
                 "id": "furious_freezing_fiends",
                 "name": "Furious Freezing Fiends",
-                "level": "",
-                "grunts": ["goblin"],
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
                 "archfiends": [],
-                "land": ""
+                "region": "",
+                "rewards": []
             },
             "devilish_city_destruction": {
                 "id": "devilish_city_destruction",
                 "name": "Devilish City Destruction",
-                "level": "",
-                "grunts": ["goblin"],
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
                 "archfiends": [],
-                "land": ""
+                "region": "",
+                "rewards": []
             },
             "combing_the_sandy_sea": {
                 "id": "combing_the_sandy_sea",
                 "name": "Combing the Sandy Sea",
-                "level": "",
-                "grunts": ["goblin"],
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
                 "archfiends": [],
-                "land": ""
+                "region": "",
+                "rewards": []
             },
             "starvation_highway": {
                 "id": "starvation_highway",
                 "name": "Starvation Highway",
-                "level": "",
-                "grunts": ["goblin"],
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
                 "archfiends": [],
-                "land": ""
+                "region": "",
+                "rewards": []
             },
             "something_slimy_upon_the_sands": {
                 "id": "something_slimy_upon_the_sands",
                 "name": "Something Slimy Upon the Sands",
-                "level": "",
-                "grunts": ["goblin"],
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
                 "archfiends": [],
-                "land": ""
+                "region": "",
+                "rewards": []
+            }
+        }
+    },
+    "age_of_temperance": {
+        "id": "age_of_temperance",
+        "chapter": "Age of Temperance",
+        "quests": {
+            "i_see_rats_and_crows": {
+                "id": "i_see_rats_and_crows",
+                "name": "I See Rats and Crows",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [],
+                "archfiends": [],
+                "region": "",
+                "rewards": []
+            },
+            "deep_forest_pumpkins": {
+                "id": "deep_forest_pumpkins",
+                "name": "Deep Forest Pumpkins",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
+                "archfiends": [],
+                "region": "",
+                "rewards": []
+            },
+            "roadbound_rat_regiment": {
+                "id": "roadbound_rat_regiment",
+                "name": "Roadbound Rat Regiment",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [],
+                "archfiends": [],
+                "region": "",
+                "rewards": []
+            },
+            "dusty_road_rollers": {
+                "id": "dusty_road_rollers",
+                "name": "Dusty Road Rollers",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [],
+                "archfiends": [],
+                "region": "",
+                "rewards": []
+            },
+            "a_queen_in_quietude": {
+                "id": "a_queen_in_quietude",
+                "name": "A Queen in Quietude",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
+                "archfiends": [],
+                "region": "",
+                "rewards": []
+            },
+            "searching_the_slick_city": {
+                "id": "searching_the_slick_city",
+                "name": "Searching the Slick City",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
+                "archfiends": [],
+                "region": "",
+                "rewards": []
+            },
+            "piglets_in_the_pass": {
+                "id": "piglets_in_the_pass",
+                "name": "Piglets in the Pass",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
+                "archfiends": [],
+                "region": "",
+                "rewards": []
+            },
+            "city_of_fluttering_flame": {
+                "id": "city_of_fluttering_flame",
+                "name": "City of Fluttering Flame",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
+                "archfiends": [],
+                "region": "",
+                "rewards": []
+            },
+            "eye_frolic_in_the_garden": {
+                "id": "eye_frolic_in_the_garden",
+                "name": "Eye Frolic in the Garden",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
+                "archfiends": [],
+                "region": "",
+                "rewards": []
+            },
+            "the_swordwomans_icy_fray": {
+                "id": "the_swordwomans_icy_fray",
+                "name": "The Swordwoman's Icy Fray",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
+                "archfiends": [],
+                "region": "",
+                "rewards": []
+            },
+            "wasting_wasters": {
+                "id": "wasting_wasters",
+                "name": "Wasting Wasters",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
+                "archfiends": [],
+                "region": "",
+                "rewards": [],
+                "unlockCondition": {
+                    "type": "sacrifice",
+                    "quest": ""
+                }
+            },
+            "spicy_chef_of_the_sands": {
+                "id": "spicy_chef_of_the_sands",
+                "name": "Spicy Chef of the Sands",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
+                "archfiends": [],
+                "region": "",
+                "rewards": [],
+                "unlockCondition": {
+                    "type": "complete",
+                    "quest": "wasting_wasters"
+                }
+            },
+            "frigid_cats_and_crows": {
+                "id": "frigid_cats_and_crows",
+                "name": "Frigid Cats and Crows Wasters",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
+                "archfiends": [],
+                "region": "",
+                "rewards": [],
+                "unlockCondition": {
+                    "type": "save",
+                    "quest": ""
+                }
+            },
+            "a_forest_haunting": {
+                "id": "a_forest_haunting",
+                "name": "A Forest Haunting",
+                "difficulty": 1,
+                "target": "",
+                "grunts": [
+                    "goblin"
+                ],
+                "archfiends": [],
+                "region": "",
+                "rewards": [],
+                "unlockCondition": {
+                    "type": "complete",
+                    "quest": "frigid_cats_and_crows"
+                }
             }
         }
     }

@@ -12,8 +12,8 @@ import { Input } from "@/components/ui/input"
 import { Quest } from "@/types/quest";
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
-import { getMonster } from "../monster/monsterUtil";
-import { Monster } from "@/types/monster";
+import { getArchfiend } from "../monster/monsterUtil";
+import { Archfiend } from "@/types/monster";
 
 export default function Page() {
   const quests: Quest[] = [];
@@ -31,7 +31,7 @@ export default function Page() {
   }, [query, quests]);
 
   const renderOffering = (quest_id: string, monster_id: string) => {
-    const monster: Monster = getMonster(monster_id);
+    const monster: Archfiend = getArchfiend(monster_id);
     const key = quest_id + "_" + monster_id;
 
     if (!monster) {
@@ -61,7 +61,7 @@ export default function Page() {
             <TableRow>
               <TableHead className="hidden">Id</TableHead>
               <TableHead>Name</TableHead>
-              <TableHead>Level</TableHead>
+              <TableHead>Difficulty</TableHead>
               <TableHead>Monsters</TableHead>
               <TableHead>Land</TableHead>
             </TableRow>
@@ -71,9 +71,9 @@ export default function Page() {
               <TableRow key={quest.id}>
                 <TableCell className="hidden">{quest.id}</TableCell>
                 <TableCell><Button variant={'link'}><Link href={'/offering/' + quest.id}>{quest.name}</Link></Button></TableCell>
-                <TableCell className="capitalize">{quest.monsters.map((monster) => renderOffering(quest.id, monster))}</TableCell>
-                <TableCell className="capitalize">{quest.level}</TableCell>
-                <TableCell className="capitalize">{quest.land.name}</TableCell>
+                <TableCell className="capitalize">{quest.archfiends.map((monster) => renderOffering(quest.id, monster))}</TableCell>
+                <TableCell className="capitalize">{quest.difficulty}</TableCell>
+                <TableCell className="capitalize">{quest.region}</TableCell>
               </TableRow>
             ))}
           </TableBody>

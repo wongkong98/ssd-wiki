@@ -1,0 +1,275 @@
+{
+    "goblin": {
+        "id": "goblin",
+        "name": "Goblin",
+        "family": "goblin",
+        "element": "none",
+        "weakness": [
+            "none",
+            "heat",
+            "venom",
+            "stone",
+            "volt",
+            "frost"
+        ],
+        "essence": "Goblin"
+    },
+    "boozy_goblin": {
+        "id": "boozy_goblin",
+        "name": "Boozy Goblin",
+        "family": "goblin",
+        "element": "none",
+        "weakness": [],
+        "essence": "Boozy"
+    },
+    "toadstool_goblin": {
+        "id": "toadstool_goblin",
+        "name": "Toadstool Goblin",
+        "family": "goblin",
+        "element": "venom",
+        "weakness": [
+            "heat"
+        ],
+        "essence": "Toadstool"
+    },
+    "blazing_goblin": {
+        "id": "blazing_goblin",
+        "name": "Blazing Goblin",
+        "family": "goblin",
+        "element": "heat",
+        "weakness": [
+            "frost"
+        ],
+        "essence": "Blazing"
+    },
+    "miserly_goblin": {
+        "id": "miserly_goblin",
+        "name": "Miserly Goblin",
+        "family": "goblin",
+        "element": "volt",
+        "weakness": [
+            "stone"
+        ],
+        "essence": "Miserly"
+    },
+    "coral_goblin": {
+        "id": "coral_goblin",
+        "name": "Coral Goblin",
+        "family": "goblin",
+        "element": "frost",
+        "weakness": [
+            "volt"
+        ],
+        "essence": "Coral"
+    },
+    "steelthorn_goblin": {
+        "id": "steelthorn_goblin",
+        "name": "Steelthorn Goblin",
+        "family": "goblin",
+        "element": "none",
+        "weakness": [],
+        "essence": "Steelthorn"
+    },
+    "gravespike_goblin": {
+        "id": "gravespike_goblin",
+        "name": "Gravespike Goblin",
+        "family": "goblin",
+        "element": "stone",
+        "weakness": [
+            "venom"
+        ],
+        "essence": "Gravespike"
+    },
+    "glacial_orc": {
+        "id": "glacial_orc",
+        "name": "Glacial Orc",
+        "family": "orc",
+        "element": "frost",
+        "weakness": [
+            "volt"
+        ],
+        "essence": "Glacial"
+    },
+    "orc": {
+        "id": "orc",
+        "name": "Orc",
+        "family": "orc",
+        "element": "none",
+        "weakness": [],
+        "essence": "Orc"
+    },
+    "poison_ivy_orc": {
+        "id": "poison_ivy_orc",
+        "name": "Poison Ivy Orc",
+        "family": "orc",
+        "element": "venom",
+        "weakness": [
+            "heat"
+        ],
+        "essence": "Poison Ivy"
+    },
+    "fairy": {
+        "id": "fairy",
+        "name": "Fairy",
+        "family": "fairy",
+        "element": "none",
+        "weakness": [],
+        "essence": "Fairy"
+    },
+    "aurora_fairy": {
+        "id": "aurora_fairy",
+        "name": "Aurora Fairy",
+        "family": "fairy",
+        "element": "frost",
+        "weakness": ["volt"],
+        "essence": "Aurora"
+    },
+    "spark_fairy": {
+        "id": "spark_fairy",
+        "name": "Spark Fairy",
+        "family": "fairy",
+        "element": "volt",
+        "weakness": [
+            "stone"
+        ],
+        "essence": "Spark"
+    },
+    "candle_spider": {
+        "id": "candle_spider",
+        "name": "Candle Spider",
+        "family": "fruit_spider",
+        "element": "heat",
+        "weakness": ["frost"],
+        "essence": "Candle"
+    },
+    "fruit_spider": {
+        "id": "fruit_spider",
+        "name": "Fruit Spider",
+        "family": "fruit_spider",
+        "element": "none",
+        "weakness": [],
+        "essence": "Fruit Spider"
+    },
+    "rancid_egg_spider": {
+        "id": "rancid_egg_spider",
+        "name": "Rancid Egg Spider",
+        "family": "fruit_spider",
+        "element": "venom",
+        "weakness": [
+            "heat"
+        ],
+        "essence": "Rancid Egg"
+    },
+    "sawbones_ghoul": {
+        "id": "sawbones_ghoul",
+        "name": "Sawbones Ghoul",
+        "family": "ghoul",
+        "element": "venom",
+        "weakness": ["heat"],
+        "essence": "Sawbones"
+    },
+    "automaton_ghoul": {
+        "id": "automaton_ghoul",
+        "name": "Automaton Ghoul",
+        "family": "ghoul",
+        "element": "volt",
+        "weakness": ["stone"],
+        "essence": "Automaton"
+    },
+    "arriviste_ghoul": {
+        "id": "arriviste_ghoul",
+        "name": "Arriviste Ghoul",
+        "family": "ghoul",
+        "element": "none",
+        "weakness": [],
+        "essence": "Arriviste"
+    },
+    "gnome": {
+        "id": "gnome",
+        "name": "Gnome",
+        "family": "gnome",
+        "element": "none",
+        "weakness": ["heat"],
+        "essence": "Gnome"
+    },
+    "volcanic_gnome": {
+        "id": "volcanic_gnome",
+        "name": "Volcanic Gnome",
+        "family": "gnome",
+        "element": "heat",
+        "weakness": ["frost"],
+        "essence": "Volcanic"
+    },
+    "grotto_gnome": {
+        "id": "grotto_gnome",
+        "name": "Grotto Gnome",
+        "family": "gnome",
+        "element": "stone",
+        "weakness": ["venom"],
+        "essence": "Grotto"
+    },
+    "wonderland_gnome": {
+        "id": "wonderland_gnome",
+        "name": "Wonderland Gnome",
+        "family": "gnome",
+        "element": "none",
+        "weakness": [],
+        "essence": ""
+    },
+    "kobold": {
+        "id": "kobold",
+        "name": "Kobold",
+        "family": "kobold",
+        "element": "none",
+        "weakness": [],
+        "essence": "Kobold"
+    },
+    "deciduous_kobold": {
+        "id": "deciduous_kobold",
+        "name": "Deciduous Kobold",
+        "family": "kobold",
+        "element": "none",
+        "weakness": [],
+        "essence": "Deciduous"
+    },
+    "pineflower_kobold": {
+        "id": "pineflower_kobold",
+        "name": "Pineflower Kobold",
+        "family": "kobold",
+        "element": "none",
+        "weakness": [],
+        "essence": "Pineflower"
+    },
+    "seedling_kobold": {
+        "id": "seedling_kobold",
+        "name": "Seedling Kobold",
+        "family": "kobold",
+        "element": "venom",
+        "weakness": ["heat"],
+        "essence": "Seedling"
+    },
+    "coppershell_orichalcum": {
+        "id": "coppershell_orichalcum",
+        "name": "Coppershell Orichalcum",
+        "family": "orichalcum",
+        "element": "none",
+        "weakness": [],
+        "essence": "Coppershell"
+    },
+    "silvershell_orichalcum": {
+        "id": "silvershell_orichalcum",
+        "name": "Silvershell Orichalcum",
+        "family": "orichalcum",
+        "element": "none",
+        "weakness": [],
+        "essence": "Silvershell"
+    },
+    "goldshell_orichalcum": {
+        "id": "goldshell_orichalcum",
+        "name": "Goldshell Orichalcum",
+        "family": "orichalcum",
+        "element": "",
+        "weakness": [],
+        "essence": "Goldshell"
+    }
+}

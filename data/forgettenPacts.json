@@ -68,7 +68,182 @@
                 "id": "additional_pact_iii",
                 "chapter": "Additional Pact III",
                 "quests": {
+                    
+                }
+            },
+            "additional_pact_iv": {
+                "id": "additional_pact_iv",
+                "chapter": "Additional Pact IV",
+                "quests": {
 
+                }
+            },
+            "additional_pact_v": {
+                "id": "additional_pact_v",
+                "chapter": "Additional Pact V",
+                "quests": {
+
+                }
+            },
+            "additional_pact_vi": {
+                "id": "additional_pact_vi",
+                "chapter": "Additional PactI VI",
+                "quests": {
+                    
+                }
+            },
+            "additional_pact_vii": {
+                "id": "additional_pact_vii",
+                "chapter": "Additional Pact VII",
+                "quests": {
+
+                }
+            },
+            "additional_pact_viii": {
+                "id": "additional_pact_vii",
+                "chapter": "Additional Pact VIII",
+                "quests": {
+
+                }
+            },
+            "additional_pact_ix": {
+                "id": "additional_pact_ix",
+                "chapter": "Additional Pact IX",
+                "quests": {
+                    
+                }
+            },
+            "additional_pact_x": {
+                "id": "additional_pact_x",
+                "chapter": "Additional Pact X",
+                "quests": {
+
+                }
+            },
+            "additional_pact_xi": {
+                "id": "additional_pact_xi",
+                "chapter": "Additional Pact XI",
+                "quests": {
+
+                }
+            },
+            "additional_pact_xii": {
+                "id": "additional_pact_xii",
+                "chapter": "Additional Pact XII",
+                "quests": {
+                    
+                }
+            },
+            "otherworld_pacts": {
+                "id": "otherworld_pacts",
+                "chapter": "Otherworld Pacts",
+                "quests": {
+                    "underworlder_on_the_wormear": {
+                        "id": "underworlder_on_the_wormear",
+                        "name": "Underworlder on the Wormear",
+                        "difficulty": "",
+                        "grunts": [],
+                        "archfiends": [],
+                        "land": "",
+                        "rewards": []
+                    },
+                    "infernal_inferno": {
+                        "id": "infernal_inferno",
+                        "name": "Infernal Inferno",
+                        "difficulty": "",
+                        "grunts": [],
+                        "archfiends": [],
+                        "land": "",
+                        "rewards": []
+                    },
+                    "sweet_chthonian_shake": {
+                        "id": "sweet_chthonian_shake",
+                        "name": "Sweet Chthonian Shake",
+                        "difficulty": "",
+                        "grunts": [],
+                        "archfiends": [],
+                        "land": "",
+                        "rewards": []
+                    },
+                    "the_downtown_abyss": {
+                        "id": "the_downtown_abyss",
+                        "name": "The Downtown Abyss",
+                        "difficulty": "",
+                        "grunts": [],
+                        "archfiends": [],
+                        "land": "",
+                        "rewards": []
+                    },
+                    "ruinous_abyssal_rampage": {
+                        "id": "ruinous_abyssal_rampage",
+                        "name": "Ruinous Abyssal Rampage",
+                        "difficulty": "",
+                        "grunts": [],
+                        "archfiends": [],
+                        "land": "",
+                        "rewards": []
+                    },
+                    "an_abyssal_gathering": {
+                        "id": "an_abyssal_gathering",
+                        "name": "An Abyssal Gathering",
+                        "difficulty": "",
+                        "grunts": [],
+                        "archfiends": [],
+                        "land": "",
+                        "rewards": []
+                    },
+                    "deciding_ground_drake": {
+                        "id": "deciding_ground_drake",
+                        "name": "Deciding Ground Drake",
+                        "difficulty": "",
+                        "grunts": [],
+                        "archfiends": [],
+                        "land": "",
+                        "rewards": []
+                    },
+                    "soaring_skydrake": {
+                        "id": "soaring_skydrake",
+                        "name": "Soaring Skydrake",
+                        "difficulty": "",
+                        "grunts": [],
+                        "archfiends": [],
+                        "land": "",
+                        "rewards": []
+                    },
+                    "the_sunwolfs_shistle": {
+                        "id": "the_sunwolfs_shistle",
+                        "name": "The Sunwolf's Whistle",
+                        "difficulty": "",
+                        "grunts": [],
+                        "archfiends": [],
+                        "land": "",
+                        "rewards": []
+                    },
+                    "seething_sea_sunwolf": {
+                        "id": "seething_sea_sunwolf",
+                        "name": "Seething Sea Sunwolf",
+                        "difficulty": "",
+                        "grunts": [],
+                        "archfiends": [],
+                        "land": "",
+                        "rewards": []
+                    },
+                    "deciding_ground_sunwolves": {
+                        "id": "deciding_ground_sunwolves",
+                        "name": "Deciding Ground Sunwolves",
+                        "difficulty": "",
+                        "grunts": [],
+                        "archfiends": [],
+                        "land": "",
+                        "rewards": []
+                    }
+                }
+            },
+            "additional_pact_xiv": {
+                "id": "additional_pact_xiv",
+                "chapter": "Additional Pact XIV",
+                "quests": {
+                    
                 }
             }
         }

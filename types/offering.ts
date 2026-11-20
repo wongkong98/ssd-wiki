@@ -1,5 +1,7 @@
 import { Element } from "./element";
 
+export type SIZES = 's' | 'm' | 'l' | 'plus';
+
 const SIZES = ['s', 'm', 'l', 'plus'] as const;
 const TYPES = [
     // Attack
@@ -30,7 +32,7 @@ export interface Offering {
     sizes: Partial<Record<Size, SubOffering>>;
 }
 
-interface SubOffering {
+export interface SubOffering {
     power: number,
     casts: number | null,
     duration: number | null,

@@ -1,14 +1,15 @@
 import { Faction } from "./faction";
-import { Offering } from "./offering";
 
 export interface Quest {
     id: string,
     name: string,
-    level: number,
+    difficulty: number,
+    target: string,
     grunts: string[],
     archfiends: string[],
-    land: string,
-    rewards: Record<string, Offering[]>
+    region: string,
+    rewards: OfferingRef[],
+    unlockCondition?: RouteUnlockCondition
 }
 
 export interface Pact {
@@ -26,4 +27,24 @@ export interface ForgttenPact {
     id: string,
     name: string,
     pacts: Record<string, Pact[]>
+}
+
+interface OfferingRef {
+    offering: string,
+    size: string
+}
+
+interface RouteUnlockCondition {
+    type: 'sacrifice' | 'save' | 'complete'
+    quest: string
+}
+
+interface WhiteQuestUnlockCondition {
+    type: 'le' | 'se'
+    quantity: number,
+    unlocks: string
+}
+
+interface BlackQuestUnlockCondition {
+    text: string
 }

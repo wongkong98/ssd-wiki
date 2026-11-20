@@ -1,10 +1,10 @@
 import { Offering } from "@/types/offering";
-import { getOffering } from "../offerringUtil";
+import { getOfferings } from "../offerringUtil";
 
 export default async function Page({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
 
-  const offering: Offering = getOffering(id);
+  const offering: Offering = getOfferings(id);
 
   return <div>
     {offering.id}
@@ -19,11 +19,6 @@ export default async function Page({ params }: { params: Promise<{ id: string }>
     {Object.entries(offering.sizes).map(([key, value]) => (
       <div key={key}>
         {key}
-        {value.power}
-        {value.casts}
-        {value.duration}
-        {value.acquisition}
-        {value.fusable}
       </div>
     ))}
   </div>;
