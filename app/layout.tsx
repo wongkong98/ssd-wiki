@@ -8,7 +8,7 @@ import { Footer } from "@/components/layout/app-footer";
 import { SidebarProvider } from "@/components/ui/sidebar";
 import { AppSidebar } from "@/components/layout/app-sidebar";
 
-const geist = Geist({ subsets: ['latin'], variable: '--font-sans' })
+const geist = Geist({subsets:['latin'],variable:'--font-sans'})
 
 const fontMono = Geist_Mono({
   subsets: ["latin"],
